@@ -27,6 +27,8 @@
 ### Major project:
 
 - [TourRoom](https://github.com/MohammadRakib/TourRoom.git)
+- [Brain Tumor Detection using CNN](https://www.slideshare.net/MohammadRakib8/brain-tumor-detection-using-cnn)
+- [A Survey on Stroke Prediction](https://www.slideshare.net/MohammadRakib8/a-survey-on-stroke-prediction)
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadrakib&show_icons=true&locale=en&layout=compact" alt="mohammadrakib" /></p>
  
