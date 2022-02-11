@@ -28,8 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadrakib&show_icons=true&locale=en" alt="mohammadrakib" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohammadrakib)
-
 ![GitHub metrics](https://metrics.lecoq.io/mohammadrakib)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadrakib&" alt="mohammadrakib" /></p>
