@@ -32,7 +32,7 @@
 - [A Survey on Stroke Prediction (Lab Project)](https://github.com/Drubojit/Heart-Stroke-Prediction.git)
   - [Report link](https://www.slideshare.net/MohammadRakib8/a-survey-on-stroke-prediction)
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadrakib&show_icons=true&locale=en&layout=compact" alt="mohammadrakib" /></p>
+
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadrakib&show_icons=true&locale=en" alt="mohammadrakib" /></p>
 
