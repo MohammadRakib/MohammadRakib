@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadrakib" alt="mohammadrakib" /></a> </p>
 
-- 📖 I’m currently learning **Flutter**
+- 📖 I’m currently building **Coffee Buddy** using flutter and firebase
 
 - 📧 How to reach me **mohammadrakibzaman@gmail.com**
 
