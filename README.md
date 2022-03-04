@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakib</h1>
-<h3 align="center">Recently graduated in Computer Science and Engineering, interested in Software development.</h3>
+<h3 align="center">Recently graduated in Computer Science and Engineering, interested in Software Development.</h3>
 
 ![Profile views](https://gpvc.arturio.dev/mohammadrakib)
 
