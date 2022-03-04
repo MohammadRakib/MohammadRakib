@@ -9,7 +9,7 @@
 
 - 📧 How to reach me **mohammadrakibzaman@gmail.com**
 
-- 📃 My personal CV/Resume [https://www.slideshare.net/MohammadRakib8/mohammad-rakib-uz-zaman-cv](https://www.slideshare.net/MohammadRakib8/mohammad-rakib-uz-zaman-cv)
+- 📃 My personal CV/Resume [https://www.slideshare.net/MohammadRakib8/mohammad-rakib-uz-zaman-cv-251285102](https://www.slideshare.net/MohammadRakib8/mohammad-rakib-uz-zaman-cv-251285102)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
