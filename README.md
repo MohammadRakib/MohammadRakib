@@ -27,7 +27,7 @@
 ### projects:
 
 - [TourRoom (Lab Project)](https://github.com/MohammadRakib/TourRoom.git)
-- [Music Player](https://github.com/MohammadRakib/MusicPlayer.git)
+- [Music Player (Lab Project)](https://github.com/MohammadRakib/MusicPlayer.git)
 - [Coffee Buddy](https://github.com/MohammadRakib/coffeeBuddy.git)
 - [World Clock](https://github.com/MohammadRakib/WorldClock-Flutter.git)
 - [Brain Tumor Detection using CNN (Lab Project)](https://github.com/Drubojit/Brain-Tumor-Detection-using-CNN.git)
