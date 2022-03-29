@@ -26,7 +26,7 @@
 
 ### Certifications
 
-[Kotlin for Java Developers](https://coursera.org/share/066f178b4e193f92f4695129bee5a7a1)
+[Kotlin for Java Developers](https://www.coursera.org/account/accomplishments/certificate/NFGR4MEUUGTS)
 
 ### projects:
 
