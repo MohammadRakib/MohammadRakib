@@ -9,7 +9,7 @@
 
 - 📧 How to reach me **mohammadrakibzaman@gmail.com**
 
-- 📃 My personal CV/Resume [https://www.slideshare.net/MohammadRakib8/mohammad-rakib-uz-zaman-cv-251361604](https://www.slideshare.net/MohammadRakib8/mohammad-rakib-uz-zaman-cv-251361604)
+- 📃 My personal CV/Resume [https://www.slideshare.net/MohammadRakib8/mohammad-rakib-uz-zaman-cvpdf](https://www.slideshare.net/MohammadRakib8/mohammad-rakib-uz-zaman-cvpdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +26,7 @@
 
 ### Certifications
 
-[Kotlin for Java Developers](https://www.coursera.org/account/accomplishments/certificate/NFGR4MEUUGTS)
+- [Kotlin for Java Developers](https://www.coursera.org/account/accomplishments/certificate/NFGR4MEUUGTS)
 
 ### projects:
 
