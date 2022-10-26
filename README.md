@@ -10,7 +10,7 @@ as a Mobile application programmer (Remote) in Cansoft Technologies since 1st Se
 
 - 📧 How to reach me **mohammadrakibzaman@gmail.com**
 
-- 📃 My personal CV/Resume [https://www.slideshare.net/MohammadRakib8/mohammad-rakib-uz-zaman-cvpdf-251518095](https://www.slideshare.net/MohammadRakib8/mohammad-rakib-uz-zaman-cvpdf-251518095)
+- 📃 My personal CV/Resume [https://www.slideshare.net/MohammadRakib8/mohammad-rakib-uz-zaman-cvpdf-252624224](https://www.slideshare.net/MohammadRakib8/mohammad-rakib-uz-zaman-cvpdf-252624224)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
