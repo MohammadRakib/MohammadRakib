@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakib</h1>
 <h3 align="center">Recently graduated in Computer Science and Engineering, interested in software development and machine learning. Currently working
-as a Mobile application programmer (Remote) in Cansoft Technologies since 1st September 2022.</h3>
+as a Software Programmer (Remote) in Cansoft Technologies since 1st September 2022.</h3>
 
 ![Profile views](https://gpvc.arturio.dev/mohammadrakib)
 
