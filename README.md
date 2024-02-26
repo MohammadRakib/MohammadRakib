@@ -10,7 +10,7 @@ as a Software Programmer (Remote) in Cansoft Technologies since 1st September 20
 
 - 📧 How to reach me **mohammadrakibzaman@gmail.com**
 
-- 📃 My personal CV/Resume [https://www.slideshare.net/MohammadRakib8/mohammad-rakib-uz-zaman-cvpdf-257894836](https://www.slideshare.net/MohammadRakib8/mohammad-rakib-uz-zaman-cvpdf-257894836)
+- 📃 My CV/Resume [https://drive.google.com/file/d/15kfUkve0apmDfumVPU3JobeM-O2G-Um-/view?usp=sharing](https://drive.google.com/file/d/15kfUkve0apmDfumVPU3JobeM-O2G-Um-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +28,8 @@ as a Software Programmer (Remote) in Cansoft Technologies since 1st September 20
 - JAVASCRIPT
 - HTML
 - MICROSOFT SQL SERVER
-- ANDROID STUDIO
+- ANDROID
+- IOS
 - FIREBASE
 - FLUTTER
 - MACHINE LEARNING
