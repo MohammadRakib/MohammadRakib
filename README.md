@@ -6,7 +6,7 @@ as a Software Programmer (Remote) in Cansoft Technologies since 1st September 20
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadrakib" alt="mohammadrakib" /></a> </p>
 
-- 🏢 I’m currently working as a Mobile application programmer.
+- 🏢 I’m currently working as a Software programmer.
 
 - 📧 How to reach me **mohammadrakibzaman@gmail.com**
 
