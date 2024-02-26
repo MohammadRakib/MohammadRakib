@@ -2,7 +2,6 @@
 <h3 align="center">I graduated in Computer Science and Engineering, interested in software development and machine learning. Currently working
 as a Software Programmer (Remote) in Cansoft Technologies since 1st September 2022.</h3>
 
-![Profile views](https://gpvc.arturio.dev/mohammadrakib)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadrakib" alt="mohammadrakib" /></a> </p>
 
